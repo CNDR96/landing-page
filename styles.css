@@ -11,10 +11,13 @@ body {
 }
 
 .logo {
-    font-size: 24px;
+    font-size: 36px;
     display: flex;
-    font-weight: 800
-    
+    font-weight: 400;
+    color:#F9FAF8;
+    margin-top: 40px;
+    padding-right: 300px;
+
 }
 
 .hero-dog {
@@ -41,7 +44,7 @@ body {
 .header {
     display: flex;
     justify-content: space-around;
-    
+    background-color: #1F2937;
 }
 
 .title-main {
@@ -72,6 +75,12 @@ body {
     background-color: #3882F6;
     color: white;
     border-radius: 10px;
+    width: 150px;
+    height: 40px;
 }
 
-
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
