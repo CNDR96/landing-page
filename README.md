@@ -1,3 +1,6 @@
 # landing-page
 Photo by <a href="https://unsplash.com/@henrylaiphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Henry Lai</a> on <a href="https://unsplash.com/photos/brown-and-white-short-coated-dog-h0kQJ5wi4gA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@macrz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kyle Mackie</a> on <a href="https://unsplash.com/photos/a-brown-dog-laying-on-top-of-a-green-couch-WEtBlBOTGoE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@alondrapvn09?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alondra Pavón</a> on <a href="https://unsplash.com/photos/black-and-brown-short-coated-dog-on-white-textile-atTzhE48WXI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@chelsea777?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kojirou Sasaki</a> on <a href="https://unsplash.com/photos/brown-and-black-long-haired-dachshund-DLdDrb2d4F4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

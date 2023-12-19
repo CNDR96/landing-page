@@ -84,3 +84,26 @@ ul {
     display: flex;
     gap: 10px;
 }
+
+.sect-1-images {
+    height: auto;
+    width: 100px;
+}
+
+.section-1-text {
+    display: flex;
+}
+
+.section-1-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+.section-1-images {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+}
