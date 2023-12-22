@@ -23,7 +23,6 @@ body {
 .hero-dog {
     width: 400px;
     height: auto;
-    display: flex;
     border-radius: 10px;
     margin-right: 60px;
     margin-bottom: 60px;
@@ -77,6 +76,8 @@ body {
     border-radius: 10px;
     width: 150px;
     height: 40px;
+    border: none
+    text-size: 30px;
 }
 
 ul {
@@ -89,6 +90,9 @@ ul {
     height: 170px;
     width: auto;
     text-align: center;
+    border-radius: 20px; 
+    box-shadow: 50;
+
 }
 
 .section-1-title {
@@ -135,4 +139,39 @@ ul {
     font-weight: 600;
     padding-left: 750px;
     font-size: 20px;
+}
+
+.adopt {
+    background-color: #3882F6;
+    display: flex;
+    margin: 120px;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.adopt-title {
+    color: #F9FAF8;
+    font-weight: 600;
+    flex-wrap: nowrap;
+    padding-left: 3px;
+}
+
+.adopt-text {
+    color: #E5E7EB;
+    text-align: center;
+    width: 320px;
+}
+
+.signup-button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    border-color: white;
+}
+
+.signup2 {
+    padding-top: 30px;
+    padding-left: 125px;
 }
